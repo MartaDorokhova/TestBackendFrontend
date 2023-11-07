@@ -1,0 +1,163 @@
+{
+  "results": [
+    {
+      "currentDate": "21.05.2021, 11:11",
+      "score": 2,
+      "id": 10
+    },
+    {
+      "currentDate": "14.10.2023, 15:11",
+      "score": 2,
+      "id": 11
+    },
+    {
+      "currentDate": "14.10.2023, 19:27",
+      "score": 1,
+      "id": 16
+    },
+    {
+      "currentDate": "15.10.2023, 14:29",
+      "score": 2,
+      "id": 17
+    },
+    {
+      "currentDate": "15.10.2023, 14:29",
+      "score": 2,
+      "id": 18
+    },
+    {
+      "currentDate": "15.10.2023, 14:32",
+      "score": 4,
+      "id": 19
+    },
+    {
+      "currentDate": "15.10.2023, 14:32",
+      "score": 1,
+      "id": 20
+    },
+    {
+      "currentDate": "15.10.2023, 16:17",
+      "score": 0,
+      "id": 21
+    },
+    {
+      "currentDate": "15.10.2023, 16:18",
+      "score": 3,
+      "id": 22
+    },
+    {
+      "currentDate": "15.10.2023, 16:18",
+      "score": 4,
+      "id": 23
+    },
+    {
+      "currentDate": "15.10.2023, 16:28",
+      "score": 0,
+      "id": 24
+    },
+    {
+      "currentDate": "15.10.2023, 16:30",
+      "score": 1,
+      "id": 25
+    },
+    {
+      "currentDate": "15.10.2023, 16:30",
+      "score": 3,
+      "id": 26
+    },
+    {
+      "currentDate": "15.10.2023, 16:31",
+      "score": 2,
+      "id": 31
+    },
+    {
+      "currentDate": "15.10.2023, 16:31",
+      "score": 3,
+      "id": 32
+    },
+    {
+      "currentDate": "15.10.2023, 16:31",
+      "score": 2,
+      "id": 33
+    },
+    {
+      "currentDate": "16.10.2023, 18:22",
+      "score": 0,
+      "id": 34
+    },
+    {
+      "currentDate": "17.10.2023, 17:14",
+      "score": 1,
+      "id": 35
+    },
+    {
+      "currentDate": "17.10.2023, 17:17",
+      "score": 1,
+      "id": 36
+    },
+    {
+      "currentDate": "17.10.2023, 23:59",
+      "score": 1,
+      "id": 37
+    },
+    {
+      "currentDate": "17.10.2023, 23:59",
+      "score": 1,
+      "id": 38
+    },
+    {
+      "currentDate": "18.10.2023, 0:06",
+      "score": 2,
+      "id": 39
+    },
+    {
+      "currentDate": "21.10.2023, 16:46",
+      "score": 1,
+      "id": 40
+    },
+    {
+      "currentDate": "21.10.2023, 17:41",
+      "score": 0,
+      "id": 41
+    },
+    {
+      "currentDate": "21.10.2023, 17:41",
+      "score": 2,
+      "id": 42
+    }
+  ],
+  "tests": [
+    {
+      "question": "Самая большая планета солнечной системы",
+      "id": "001",
+      "rightVersion": "Юпитер",
+      "firstVersion": "Марс",
+      "secondVersion": "Земля",
+      "thirdVersion": "Юпитер"
+    },
+    {
+      "id": "0020",
+      "question": "Сколько спутников у планеты Марс",
+      "rightVersion": "2",
+      "firstVersion": "Ни одного",
+      "secondVersion": "2",
+      "thirdVersion": "3"
+    },
+    {
+      "question": "Самая большая планета солнечной системы",
+      "id": "003",
+      "rightVersion": "Юпитер",
+      "firstVersion": "Марс",
+      "secondVersion": "Земля",
+      "thirdVersion": "Юпитер"
+    },
+    {
+      "id": "004",
+      "question": "Сколько тебе лет?",
+      "rightVersion": "50",
+      "firstVersion": "50",
+      "secondVersion": "40",
+      "thirdVersion": "39"
+    }
+  ]
+}
